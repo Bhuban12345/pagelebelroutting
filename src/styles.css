@@ -1,0 +1,24 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+.leftSide {
+  display: flex;
+  justify-content: space-between;
+}
+.rightSide {
+  display: flex;
+  justify-content: space-around;
+}
+.comp {
+  margin-left: 10px;
+}
+.right {
+  margin-left: 10px;
+}
+.component {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
